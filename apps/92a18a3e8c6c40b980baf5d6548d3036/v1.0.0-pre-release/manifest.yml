@@ -1,0 +1,29 @@
+app_id: 92a18a3e8c6c40b980baf5d6548d3036
+name: Global-app-2
+description: ""
+logo: ""
+manifest_version: ""
+ignored: []
+ui:
+    homepage: ""
+    extensions: []
+    pages: {}
+    dashboards: {}
+    navigation: {}
+api_integrations: []
+rtr_scripts: []
+collections: []
+auth:
+    scopes: []
+    permissions: {}
+    roles: []
+functions: []
+workflows: []
+parsers: []
+logscale:
+    saved_searches: []
+lookup_files:
+    - name: mappings.csv
+      description: ""
+      path: lookup-files/mappings.csv
+app_docs: []
